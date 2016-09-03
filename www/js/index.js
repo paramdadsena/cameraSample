@@ -54,6 +54,7 @@ var app = {
       },
       function( message ) {
         alert( message );
+		 alert( 'Thanks for click (Param Camera)' );
       },
       {
         quality: 50,
