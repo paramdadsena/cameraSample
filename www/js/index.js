@@ -49,7 +49,8 @@ var app = {
 
     takePicture: function() {
       navigator.camera.getPicture( function( imageURI ) {
-        alert( imageURI );
+       // alert( imageURI );
+        alert( 'Thanks for click (Param Camera)' );
       },
       function( message ) {
         alert( message );
