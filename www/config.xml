@@ -7,7 +7,7 @@
         version   = "1.0.0">
 
     <name>Camera Custome App</name>
-
+ <icon src="logo.png" gap:role="default" />
     <description>
         Developed By PARAM
     </description>
